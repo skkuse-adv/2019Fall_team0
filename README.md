@@ -8,7 +8,7 @@
 
   | No.  | Name          | Department                     | Course         |
   | ---- | ------------- | ------------------------------ | -------------- |
-  | 1    | Hohyeon Jeong | Electronic Electrical Computer | Ph.D candidate |
+  | 1    | Hohyeon Jeong(@Horeng) | Electronic Electrical Computer | Ph.D candidate |
 
   
 
